@@ -5,6 +5,8 @@ def f(x):
     """
     return x**2 + 4*x + 4
 
+# test comment
+
 def gradient(x, h=1e-5):
     """
     Compute the first derivative (gradient) using finite differences.
